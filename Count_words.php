@@ -18,3 +18,4 @@ foreach ($assoc as $Key => $value){
     echo "{$Key} => {$value}" .PHP_EOL;
 }
 echo "Количество слов в строке = " ,count($WordArray);
+//
